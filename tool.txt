@@ -1,0 +1,4 @@
+list tugas
+- tugas vidio
+- tugas uts
+- tugas uas
